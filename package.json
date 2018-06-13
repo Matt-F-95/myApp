@@ -1,0 +1,17 @@
+{
+  "main": "main.js",
+  "author": "matt felton",
+  "name": "top-5-text-editors",
+  "version": "1.0.0",
+  "description": "The Top 5 Text Editors",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [   
+    "Top",
+    "5",
+    "Text",
+    "Editors"
+  ],
+  "license": "ISC"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Brackets",
+  "description": "Brackets is an open source editor written in HTML, CSS, and JavaScript with a primary focus on web development. Adobe Systems created Brackets but it is currently being maintained on GitHub and is also a cross-platform text editor supported on macOS, Linux, and Windows. The feature available in Dreamweaver for extracting CSS from a PSD file was offered in Brackets but was taken away due to low usage. Although, this text editor still has many features such as quick edit, live preview and split view. Brackets was initially released on 4 Novemeber 2014 and the most current stable release was 4 July 2017.",
+  "image":"img/bracketlogo.png"
+}

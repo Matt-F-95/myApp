@@ -1,0 +1,110 @@
+/* =======================================
+  Stylesheet
+  font-family: 'Mukta', sans-serif;
+
+
+===================================*/
+
+* {
+  color: white;
+}
+
+.clearfix {
+  clear: both;
+}
+
+hr {
+  width: 50%;
+  background: white;
+}
+
+body {
+  background-image: url(../img/blackbg.png);
+  width: 100%;
+  margin: auto;
+  padding: 0;
+  font-family: 'Mukta', sans-serif;
+}
+
+.mainTitle {
+  font-size: 2em;
+  padding: 5px;
+  margin-top: 45px;
+  text-align: center;
+  font-family: 'Sedgwick Ave', cursive;
+  letter-spacing: 5px;
+  color: white;
+}
+
+h3, h4, h5, h6 {
+  font-size: 1.5em;
+  font-family: 'Sedgwick Ave', cursive;
+  letter-spacing: 3px;
+  font-weight: bolder;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+ul li {
+  list-style-type: circle;
+}
+
+#aboutInfo {
+  margin-top: 75px;
+}
+
+#links {
+  text-transform: uppercase;
+  color: skyblue;
+}
+
+a:hover {
+  color: skyblue;
+  text-decoration: none;
+}
+
+#aboutSplash {
+  float: right;
+  position: relative;
+  margin-top: 45px;
+}
+
+.container {
+  width: 100%;
+  padding: 0;
+  margin: auto;
+}
+
+.col {
+  margin: 5px;
+  padding: 0;
+}
+
+header {
+  margin-bottom: 65px;
+}
+
+
+
+/* image hover effect */
+.item {
+  position: relative;
+  margin: 2%;
+  overflow: hidden;
+}
+
+.item img {
+  max-width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.item:hover img {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
